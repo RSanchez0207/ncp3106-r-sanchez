@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel = "stylesheet" href = "Bionote_External.css">
+		<link rel="stylesheet" href='https://fonts.googleapis.com/css2?family=Fira+Sans:wght@500&display=swap'>
+		<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+	</head>
+
+	<body>
+		
+		<center>
+		<img class="profile" src ="Pictures/profile_pic.png">
+		
+		<div>
+			<a href="https://www.facebook.com/raighendomingo.sanchez" target="_blank">
+				<img class="logos" src="Logos/facebook.svg"></a>
+			<a href="https://www.instagram.com/raighensanchez" target="_blank">
+				<img class="logos" src="Logos/instagram.svg"></a>
+			<a href="https://pinterest.com/Raighensanchez" target="_blank">
+				<img class="logos" src="Logos/pinterest.svg"></a>
+			<a href="#aboutme">
+				<img class="logos" src ="Logos/caravan.svg"></a>
+		</div>
+		</center>
+
+		<div class="bionote">
+			<h1>Raighen's Bionote</h1>
+			<center>	
+			<p>Raighen Sanchez is a 3rd Year college student pursuing BS Computer Engineering in the University of the East, Manila and serving as the President in Society of Computer Engineering Students (SCpES). Raighen is known for its ability to adjust in a pressured environment and enjoy the journey ahead of is life. He is currently a University Scholar in his respective university and is looking forward to graduate with <b><i>Latin Honors.</i></b></p>  
+			<p>Raighen is a former member of Ramon Magsaysay Highschool Chorale in Manila whereas he and his choirmates performed in several prestigious places like SM Aura and Midas Hotel. RMHS Chorale in his time also won several big-time competitions like FEUropa 7, Musikapella, and ECO Chorale. He is also interested in taking care of dogs, travelling, music, and anime.</p>
+			<p><b><i>"You should enjoy the little detours to the fullest. Because that's where you'll find things more important than what you want."</i></b></p>
+			<h2>- Ging Freecs, HunterxHunter</h2>
+			</center>
+		</div>
+	
+	</body>
+</html>
